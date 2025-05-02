@@ -20,7 +20,7 @@
 
 ### Новичок
 
---
+* [Append Slices](./beginner/append_slices.md)
 
 ### Легкий уровень
 
