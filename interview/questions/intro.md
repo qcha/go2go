@@ -21,6 +21,7 @@
 ### Новичок
 
 * [Append Slices](./beginner/append_slices.md)
+* [Closure in For](./beginner/closure_in_for.md)
 
 ### Легкий уровень
 
