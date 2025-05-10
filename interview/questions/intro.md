@@ -25,7 +25,7 @@
 
 ### Легкий уровень
 
---
+* [Func with timeout](./easy/func_with_timeout.md)
 
 ### Средний уровень
 
