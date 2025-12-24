@@ -32,7 +32,7 @@
 
 ### Легкий уровень
 
---
+* [Squares of sorted array](./easy/squares_sorted_array.md)
 
 ### Средний уровень
 
