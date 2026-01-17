@@ -22,6 +22,8 @@
 
 * [Append Slices](./beginner/append_slices.md)
 * [Closure in For](./beginner/closure_in_for.md)
+* [Concurrency println](./beginner/concurrency_println.md)
+* [Reading from close channel](./beginner/channel_close_read.md)
 
 ### Легкий уровень
 
