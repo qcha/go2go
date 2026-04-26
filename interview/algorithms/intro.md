@@ -28,7 +28,7 @@
 
 ### Новичок
 
---
+* [Missing number](./beginner/missing_number.md)
 
 ### Легкий уровень
 
