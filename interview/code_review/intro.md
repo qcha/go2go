@@ -31,6 +31,7 @@
 ### Средний уровень
 
 * [Сбор результатов из горутин через канал](./medium/goroutine_results_channel.md)
+* [Инициализация хранилища с sql.DB](./medium/store_db_dependency.md)
 
 ### Сложный уровень
 
