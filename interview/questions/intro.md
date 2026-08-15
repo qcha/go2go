@@ -24,6 +24,7 @@
 * [Closure in For](./beginner/closure_in_for.md)
 * [Concurrency println](./beginner/goroutine_loop_print.md)
 * [Reading from close channel](./beginner/channel_close_read.md)
+* [Slices Len and Cap](./beginner/slices_len_cap.md)
 
 ### Легкий уровень
 
