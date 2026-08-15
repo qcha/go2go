@@ -25,6 +25,7 @@
 * [Concurrency println](./beginner/goroutine_loop_print.md)
 * [Reading from close channel](./beginner/channel_close_read.md)
 * [Slices Len and Cap](./beginner/slices_len_cap.md)
+* [Pointer](../questions/beginner/pointer.md)
 
 ### Легкий уровень
 
